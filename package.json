@@ -1,0 +1,11 @@
+{
+  "name": "@4rn4ud/pfc-cmd",
+  "version": "1.0.0",
+  "description": "Pierre, feuille, ciseaux.",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "author": "4rn4ud",
+  "license": "ISC"
+}
